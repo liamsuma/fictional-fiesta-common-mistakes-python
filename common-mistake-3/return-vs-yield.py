@@ -1,4 +1,5 @@
-# When defining a function with iteration, for example, list, strings or even files under the same directory, yield is recommended and that keyword returns a generator 
+# When defining a function with iteration, for example, list, strings or even files under the same directory, yield is recommended 
+# and that keyword returns a generator 
 # Remember yield is only a generator with no code actually runs 
 
 def createGenerator():
