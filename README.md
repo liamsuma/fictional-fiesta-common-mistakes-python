@@ -10,3 +10,5 @@ For Tesseract and Pytesseract related issues, please see [common-mistake-2](http
 For return vs. yield functions, please see [common-mistake-3](https://github.com/liamsuma/fictional-fiesta-common-mistakes-python/tree/master/common-mistake-3)
 
 For Azure Blob Storage related issues, please see [common-mistake-4](https://github.com/liamsuma/fictional-fiesta-common-mistakes-python/tree/master/common-mistake-4)
+
+For Chromedriver related issues with Selenium, please see [common-mistake-5](https://github.com/liamsuma/fictional-fiesta-common-mistakes-python/tree/master/common-mistake-5)
