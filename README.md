@@ -1,13 +1,6 @@
 # fictional-fiesta-common-mistakes-python
 🐍Self-discipline notes on common mistakes in Python (i.e. usually are the most upvoted questions from SO)
-
-.__  .__                                            
-|  | |__|____    _____   ________ __  _____ _____   
-|  | |  \__  \  /     \ /  ___/  |  \/     \\__  \  
-|  |_|  |/ __ \|  Y Y  \\___ \|  |  /  Y Y  \/ __ \_
-|____/__(____  /__|_|  /____  >____/|__|_|  (____  /
-             \/      \/     \/            \/     \/ 
-             
+          
 # Index 
 
 For filesystems and file copying issues, please see [common-mistake-1](https://github.com/liamsuma/fictional-fiesta-common-mistakes-python/blob/master/common-mistake-1/filesystem_move_folders.py)
